@@ -4,3 +4,5 @@ matplotlib
 seaborn
 streamlit
 yfinance
+statsmodels
+plotly
